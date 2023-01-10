@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AlgorithmExam
 {
-    public class Sorts
+    public class Sorts1
     {
         /// <summary>
         /// Сортировка пузырьком
